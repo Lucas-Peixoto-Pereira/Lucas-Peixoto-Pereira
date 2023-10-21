@@ -5,10 +5,8 @@
 <p align="left">
 <a href="https://dev.to/lucas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lucas" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lucas-peixoto-p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-peixoto-p/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/lucas.peixoto.5836" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lucas.peixoto.5836" height="30" width="40" /></a>
+<a href="https://www.facebook.com/lucas.peixoto.5836" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lucas.peixoto.5836" height="30" width="40" /></a>
 <a href="https://www.instagram.com/lukeppxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lukeppxd/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@lucas-sk5zs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@lucas-sk5zs" height="30" width="40" /></a>
-<a href="https://discord.gg/kjuh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kjuh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
