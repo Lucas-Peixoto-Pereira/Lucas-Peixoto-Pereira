@@ -1,8 +1,8 @@
-Olá 👋
-Me chamo Lucas P. , apaixonado por desenvolvimento expecificamente na area de web estudande de Engenharia de Software pela Unicv.
-📚 Atualmente apenas estudo em busca da primeira oportunidade na area de tecnologia.
-🌱 Também estou para concluir alguns cursos na Udemy de suporte tecnico, Figma e Desenvolvimento Web.
-🏠 Moro em Maringá, Paraná!
+<h1>Olá 👋</h1>
+<p> Me chamo Lucas P. , apaixonado por desenvolvimento expecificamente na area de web estudande de Engenharia de Software pela Unicv. </p>
+<p>📚 Atualmente apenas estudo em busca da primeira oportunidade na area de tecnologia. </p>
+<p>🌱 Também estou para concluir alguns cursos na Udemy de suporte tecnico, Figma e Desenvolvimento Web. </p>
+<p>🏠 Moro em Maringá, Paraná!</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-peixoto-p/) 
