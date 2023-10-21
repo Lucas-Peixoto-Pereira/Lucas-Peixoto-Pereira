@@ -1,5 +1,5 @@
 <h1>Olá 👋</h1>
-<p> Me chamo Lucas P. , apaixonado por desenvolvimento expecificamente na area de web estudande de Engenharia de Software pela Unicv. </p>
+<p> Me chamo Lucas P. , apaixonado por desenvolvimento especificamente na área de web, estudante de Engenharia de Software pela Unicv </p>
 <p>📚 Atualmente apenas estudo em busca da primeira oportunidade na area de tecnologia. </p>
 <p>🌱 Também estou para concluir alguns cursos na Udemy de suporte tecnico, Figma e Desenvolvimento Web. </p>
 <p>🏠 Moro em Maringá, Paraná!</p>
