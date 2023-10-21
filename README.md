@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas P.</h1>
+<h1 align="center">Olá, Eu sou o Lucas P.</h1>
 <h3 align="center">Entusiasta de tecnologia focado em aprender Front End</h3>
 
 <h3 align="left">Connect with me:</h3>
